@@ -1,0 +1,23 @@
+{
+  "name": "testingapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pramodshah/TestingApp.git"
+  },
+  "author": "pramod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pramodshah/TestingApp/issues"
+  },
+  "homepage": "https://github.com/pramodshah/TestingApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "git": "^0.1.5"
+  }
+}
